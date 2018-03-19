@@ -854,6 +854,7 @@ img.wp-post-image {
     overflow: hidden;
     background-size: cover;
     padding: 180px 0 200px 0;
+    background-position: top !important;
 }
 
 .frontpage-site-title {
