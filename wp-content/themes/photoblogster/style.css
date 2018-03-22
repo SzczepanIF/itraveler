@@ -608,14 +608,13 @@ span.img-overlay {
 .post-thumbnail-wrap {
 	transition: transform .2s ease-in;
 	overflow: hidden;
-	    -webkit-backface-visibility: hidden;
-    -webkit-transform: translateZ(1px) scale(1.0, 1.0);
-    transform: translateZ(1px);
+	-webkit-backface-visibility: hidden;
+    -webkit-transform: translateZ(-1px) scale(1.0, 1.0);
 	background: #000;
 }
 
 .post-thumbnail-wrap:hover {
-	transform: scale(1.05);
+	transform: scale(1.08);
 }
 
 .post-thumbnail-wrap .entry-title {
