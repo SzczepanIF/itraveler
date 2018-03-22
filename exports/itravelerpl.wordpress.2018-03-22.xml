@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.9.4" created="2018-03-19 16:38" -->
+<!-- generator="WordPress/4.9.4" created="2018-03-22 15:49" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>itraveler.pl</title>
 	<link>http://localhost/flyordie</link>
 	<description>inspiracje podróżnicze</description>
-	<pubDate>Mon, 19 Mar 2018 16:38:58 +0000</pubDate>
+	<pubDate>Thu, 22 Mar 2018 15:49:48 +0000</pubDate>
 	<language>pl-PL</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/flyordie</wp:base_site_url>
@@ -1482,6 +1482,661 @@
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>O Mnie</title>
+		<link>http://localhost/flyordie/o-mnie/</link>
+		<pubDate>Mon, 19 Mar 2018 10:20:10 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/?page_id=65</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet consecteur.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>65</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-19 11:20:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-19 10:20:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[o-mnie]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://localhost/flyordie/2018/03/19/66/</link>
+		<pubDate>Mon, 19 Mar 2018 10:20:10 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/2018/03/19/66/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-19 11:20:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-19 10:20:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[66]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu-glowne"><![CDATA[Menu Główne]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[65]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>mala-fatra-gorki3</title>
+		<link>http://localhost/flyordie/2017/07/02/mala-fatra-2017/mala-fatra-gorki3/</link>
+		<pubDate>Mon, 19 Mar 2018 11:01:18 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2018/03/mala-fatra-gorki3.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>84</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-19 12:01:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-19 11:01:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mala-fatra-gorki3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>80</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2018/03/mala-fatra-gorki3.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/03/mala-fatra-gorki3.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:29:"2018/03/mala-fatra-gorki3.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"mala-fatra-gorki3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:29:"mala-fatra-gorki3-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:29:"mala-fatra-gorki3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:30:"mala-fatra-gorki3-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:29:"mala-fatra-gorki3-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:30:"mala-fatra-gorki3-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>mala-fatra-gorki-4</title>
+		<link>http://localhost/flyordie/2017/07/02/mala-fatra-2017/mala-fatra-gorki-4/</link>
+		<pubDate>Mon, 19 Mar 2018 11:04:13 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2018/03/mala-fatra-gorki-4.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>85</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-19 12:04:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-19 11:04:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mala-fatra-gorki-4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>80</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2018/03/mala-fatra-gorki-4.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/03/mala-fatra-gorki-4.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:960;s:4:"file";s:30:"2018/03/mala-fatra-gorki-4.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"mala-fatra-gorki-4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:30:"mala-fatra-gorki-4-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:30:"mala-fatra-gorki-4-180x270.jpg";s:5:"width";i:180;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:30:"mala-fatra-gorki-4-640x576.jpg";s:5:"width";i:640;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>mala-fatra-gorki-5</title>
+		<link>http://localhost/flyordie/2017/07/02/mala-fatra-2017/mala-fatra-gorki-5/</link>
+		<pubDate>Mon, 19 Mar 2018 11:12:58 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/07/mala-fatra-gorki-5.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>89</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-19 12:12:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-19 11:12:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mala-fatra-gorki-5]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>80</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/07/mala-fatra-gorki-5.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/mala-fatra-gorki-5.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:30:"2017/07/mala-fatra-gorki-5.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"mala-fatra-gorki-5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:30:"mala-fatra-gorki-5-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:30:"mala-fatra-gorki-5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:31:"mala-fatra-gorki-5-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:30:"mala-fatra-gorki-5-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:31:"mala-fatra-gorki-5-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>berlin-title</title>
+		<link>http://localhost/flyordie/2017/02/28/berlin-2017/berlin-title/</link>
+		<pubDate>Mon, 19 Mar 2018 11:26:52 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2018/03/berlin-title.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>92</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-19 12:26:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-19 11:26:52]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[berlin-title]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>91</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2018/03/berlin-title.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/03/berlin-title.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:24:"2018/03/berlin-title.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"berlin-title-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"berlin-title-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"berlin-title-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"berlin-title-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:24:"berlin-title-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:25:"berlin-title-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>berlin-river</title>
+		<link>http://localhost/flyordie/2017/02/28/berlin-2017/berlin-river/</link>
+		<pubDate>Mon, 19 Mar 2018 11:34:47 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2018/03/berlin-river.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>93</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-19 12:34:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-19 11:34:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[berlin-river]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>91</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2018/03/berlin-river.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/03/berlin-river.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:24:"2018/03/berlin-river.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"berlin-river-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"berlin-river-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"berlin-river-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"berlin-river-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:24:"berlin-river-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:25:"berlin-river-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>berlin-test-rest</title>
+		<link>http://localhost/flyordie/2017/02/28/berlin-2017/berlin-test-rest/</link>
+		<pubDate>Mon, 19 Mar 2018 11:35:48 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/02/berlin-test-rest.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>95</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-19 12:35:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-19 11:35:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[berlin-test-rest]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>91</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/02/berlin-test-rest.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/02/berlin-test-rest.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:28:"2017/02/berlin-test-rest.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"berlin-test-rest-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:28:"berlin-test-rest-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:28:"berlin-test-rest-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:29:"berlin-test-rest-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:28:"berlin-test-rest-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:29:"berlin-test-rest-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>india-title</title>
+		<link>http://localhost/flyordie/2017/07/19/polnocne-indie-2017/india-title/</link>
+		<pubDate>Wed, 21 Mar 2018 14:59:32 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/07/india-title.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>100</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-21 15:59:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-21 14:59:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[india-title]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>96</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/07/india-title.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/india-title.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:23:"2017/07/india-title.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"india-title-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"india-title-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:23:"india-title-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:24:"india-title-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:23:"india-title-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:24:"india-title-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>dubai2-title</title>
+		<link>http://localhost/flyordie/2017/12/22/dubaj-vol-2-2017/dubai2-title/</link>
+		<pubDate>Wed, 21 Mar 2018 15:02:07 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/12/dubai2-title.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>101</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-21 16:02:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-21 15:02:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dubai2-title]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>98</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/12/dubai2-title.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/12/dubai2-title.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:24:"2017/12/dubai2-title.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"dubai2-title-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"dubai2-title-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"dubai2-title-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"dubai2-title-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:24:"dubai2-title-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:25:"dubai2-title-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Zurych 2014</title>
+		<link>http://localhost/flyordie/2014/08/14/zurych-2014/</link>
+		<pubDate>Thu, 14 Aug 2014 10:16:32 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/?p=104</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>104</wp:post_id>
+		<wp:post_date><![CDATA[2014-08-14 12:16:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-08-14 10:16:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[zurych-2014]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="szwajcaria"><![CDATA[Szwajcaria]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+			<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018-03-22]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[105]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>zurich-title</title>
+		<link>http://localhost/flyordie/2014/08/14/zurych-2014/zurich-title/</link>
+		<pubDate>Thu, 22 Mar 2018 11:18:13 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2018/03/zurich-title.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>105</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-22 12:18:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-22 11:18:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[zurich-title]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>104</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2018/03/zurich-title.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2018/03/zurich-title.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:24:"2018/03/zurich-title.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"zurich-title-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"zurich-title-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"zurich-title-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"zurich-title-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:24:"zurich-title-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:25:"zurich-title-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>india-tuktuks</title>
+		<link>http://localhost/flyordie/2017/07/19/polnocne-indie-2017/india-tuktuks/</link>
+		<pubDate>Thu, 22 Mar 2018 14:37:16 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/07/india-tuktuks.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>113</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-22 15:37:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-22 14:37:16]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[india-tuktuks]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>96</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/07/india-tuktuks.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/india-tuktuks.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:25:"2017/07/india-tuktuks.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"india-tuktuks-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"india-tuktuks-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:25:"india-tuktuks-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"india-tuktuks-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:25:"india-tuktuks-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:26:"india-tuktuks-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>india-main</title>
+		<link>http://localhost/flyordie/2017/07/19/polnocne-indie-2017/india-main/</link>
+		<pubDate>Thu, 22 Mar 2018 14:38:54 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/07/india-main.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>114</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-22 15:38:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-22 14:38:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[india-main]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>96</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/07/india-main.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/india-main.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:22:"2017/07/india-main.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"india-main-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"india-main-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"india-main-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"india-main-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:22:"india-main-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:23:"india-main-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>india-road</title>
+		<link>http://localhost/flyordie/2017/07/19/polnocne-indie-2017/india-road/</link>
+		<pubDate>Thu, 22 Mar 2018 14:43:10 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/07/india-road.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>117</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-22 15:43:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-22 14:43:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[india-road]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>96</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/07/india-road.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/india-road.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:22:"2017/07/india-road.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"india-road-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"india-road-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"india-road-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"india-road-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:22:"india-road-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:23:"india-road-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>india-market</title>
+		<link>http://localhost/flyordie/2017/07/19/polnocne-indie-2017/india-market/</link>
+		<pubDate>Thu, 22 Mar 2018 14:46:29 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/07/india-market.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>118</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-22 15:46:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-22 14:46:29]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[india-market]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>96</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/07/india-market.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/india-market.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:24:"2017/07/india-market.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"india-market-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"india-market-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"india-market-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"india-market-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:24:"india-market-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:25:"india-market-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>indie-market2</title>
+		<link>http://localhost/flyordie/2017/07/19/polnocne-indie-2017/indie-market2/</link>
+		<pubDate>Thu, 22 Mar 2018 14:52:30 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/07/indie-market2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-22 15:52:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-22 14:52:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[indie-market2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>96</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/07/indie-market2.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/indie-market2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:25:"2017/07/indie-market2.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"indie-market2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"indie-market2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:25:"indie-market2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"indie-market2-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:25:"indie-market2-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:26:"indie-market2-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>india-tajmahal</title>
+		<link>http://localhost/flyordie/2017/07/19/polnocne-indie-2017/india-tajmahal/</link>
+		<pubDate>Thu, 22 Mar 2018 15:02:56 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/07/india-tajmahal.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>122</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-22 16:02:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-22 15:02:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[india-tajmahal]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>96</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/07/india-tajmahal.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/india-tajmahal.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:26:"2017/07/india-tajmahal.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"india-tajmahal-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:26:"india-tajmahal-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:26:"india-tajmahal-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:27:"india-tajmahal-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:26:"india-tajmahal-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:27:"india-tajmahal-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>india-jaipur1</title>
+		<link>http://localhost/flyordie/2017/07/19/polnocne-indie-2017/india-jaipur1/</link>
+		<pubDate>Thu, 22 Mar 2018 15:31:23 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/07/india-jaipur1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>124</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-22 16:31:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-22 15:31:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[india-jaipur1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>96</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/07/india-jaipur1.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/india-jaipur1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:25:"2017/07/india-jaipur1.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"india-jaipur1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"india-jaipur1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:25:"india-jaipur1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"india-jaipur1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:25:"india-jaipur1-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:26:"india-jaipur1-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>india-jaipur2</title>
+		<link>http://localhost/flyordie/2017/07/19/polnocne-indie-2017/india-jaipur2/</link>
+		<pubDate>Thu, 22 Mar 2018 15:34:51 +0000</pubDate>
+		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/07/india-jaipur2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>125</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-22 16:34:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-22 15:34:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[india-jaipur2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>96</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/07/india-jaipur2.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/07/india-jaipur2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:25:"2017/07/india-jaipur2.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"india-jaipur2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"india-jaipur2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:25:"india-jaipur2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"india-jaipur2-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:25:"india-jaipur2-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:26:"india-jaipur2-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Dubaj 2015</title>
 		<link>http://localhost/flyordie/2015/12/25/dubaj-2015/</link>
 		<pubDate>Fri, 25 Dec 2015 13:19:40 +0000</pubDate>
@@ -1760,91 +2415,6 @@ Summa summarum, dobrze by było odwiedzić te miejsca ponownie, lecz w bardziej 
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>O Mnie</title>
-		<link>http://localhost/flyordie/o-mnie/</link>
-		<pubDate>Mon, 19 Mar 2018 10:20:10 +0000</pubDate>
-		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/flyordie/?page_id=65</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet consecteur.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>65</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-19 11:20:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-19 10:20:10]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[o-mnie]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://localhost/flyordie/2018/03/19/66/</link>
-		<pubDate>Mon, 19 Mar 2018 10:20:10 +0000</pubDate>
-		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/flyordie/2018/03/19/66/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>66</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-19 11:20:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-19 10:20:10]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[66]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="menu-glowne"><![CDATA[Menu Główne]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[65]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Malá Fatra 2017</title>
 		<link>http://localhost/flyordie/2017/07/02/mala-fatra-2017/</link>
 		<pubDate>Sun, 02 Jul 2017 09:48:04 +0000</pubDate>
@@ -1908,99 +2478,6 @@ Najbliższe duże miasto - Żylina - oddalone jest o około 1h drogi od Stefanov
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>mala-fatra-gorki3</title>
-		<link>http://localhost/flyordie/2017/07/02/mala-fatra-2017/mala-fatra-gorki3/</link>
-		<pubDate>Mon, 19 Mar 2018 11:01:18 +0000</pubDate>
-		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2018/03/mala-fatra-gorki3.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>84</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-19 12:01:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-19 11:01:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mala-fatra-gorki3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>80</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2018/03/mala-fatra-gorki3.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/03/mala-fatra-gorki3.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:29:"2018/03/mala-fatra-gorki3.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"mala-fatra-gorki3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:29:"mala-fatra-gorki3-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:29:"mala-fatra-gorki3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:30:"mala-fatra-gorki3-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:29:"mala-fatra-gorki3-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:30:"mala-fatra-gorki3-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>mala-fatra-gorki-4</title>
-		<link>http://localhost/flyordie/2017/07/02/mala-fatra-2017/mala-fatra-gorki-4/</link>
-		<pubDate>Mon, 19 Mar 2018 11:04:13 +0000</pubDate>
-		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2018/03/mala-fatra-gorki-4.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>85</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-19 12:04:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-19 11:04:13]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mala-fatra-gorki-4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>80</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2018/03/mala-fatra-gorki-4.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/03/mala-fatra-gorki-4.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:960;s:4:"file";s:30:"2018/03/mala-fatra-gorki-4.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"mala-fatra-gorki-4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:30:"mala-fatra-gorki-4-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:30:"mala-fatra-gorki-4-180x270.jpg";s:5:"width";i:180;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:30:"mala-fatra-gorki-4-640x576.jpg";s:5:"width";i:640;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>mala-fatra-gorki-5</title>
-		<link>http://localhost/flyordie/2017/07/02/mala-fatra-2017/mala-fatra-gorki-5/</link>
-		<pubDate>Mon, 19 Mar 2018 11:12:58 +0000</pubDate>
-		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/07/mala-fatra-gorki-5.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>89</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-19 12:12:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-19 11:12:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mala-fatra-gorki-5]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>80</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/07/mala-fatra-gorki-5.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2017/07/mala-fatra-gorki-5.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:30:"2017/07/mala-fatra-gorki-5.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"mala-fatra-gorki-5-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:30:"mala-fatra-gorki-5-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:30:"mala-fatra-gorki-5-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:31:"mala-fatra-gorki-5-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:30:"mala-fatra-gorki-5-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:31:"mala-fatra-gorki-5-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Berlin 2017</title>
 		<link>http://localhost/flyordie/2017/02/28/berlin-2017/</link>
 		<pubDate>Tue, 28 Feb 2017 18:25:50 +0000</pubDate>
@@ -2045,108 +2522,69 @@ Szybki check...i rzeczywiście istnieją dwie ulice z różnymi kodami pocztowym
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>berlin-title</title>
-		<link>http://localhost/flyordie/2017/02/28/berlin-2017/berlin-title/</link>
-		<pubDate>Mon, 19 Mar 2018 11:26:52 +0000</pubDate>
-		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2018/03/berlin-title.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>92</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-19 12:26:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-19 11:26:52]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[berlin-title]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>91</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2018/03/berlin-title.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/03/berlin-title.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:24:"2018/03/berlin-title.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"berlin-title-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"berlin-title-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"berlin-title-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"berlin-title-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:24:"berlin-title-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:25:"berlin-title-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>berlin-river</title>
-		<link>http://localhost/flyordie/2017/02/28/berlin-2017/berlin-river/</link>
-		<pubDate>Mon, 19 Mar 2018 11:34:47 +0000</pubDate>
-		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2018/03/berlin-river.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>93</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-19 12:34:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-19 11:34:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[berlin-river]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>91</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2018/03/berlin-river.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/03/berlin-river.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:24:"2018/03/berlin-river.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"berlin-river-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"berlin-river-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"berlin-river-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:25:"berlin-river-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:24:"berlin-river-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:25:"berlin-river-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>berlin-test-rest</title>
-		<link>http://localhost/flyordie/2017/02/28/berlin-2017/berlin-test-rest/</link>
-		<pubDate>Mon, 19 Mar 2018 11:35:48 +0000</pubDate>
-		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/flyordie/wp-content/uploads/2017/02/berlin-test-rest.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>95</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-19 12:35:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-19 11:35:48]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[berlin-test-rest]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>91</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/flyordie/wp-content/uploads/2017/02/berlin-test-rest.jpg]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2017/02/berlin-test-rest.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:28:"2017/02/berlin-test-rest.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"berlin-test-rest-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:28:"berlin-test-rest-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:28:"berlin-test-rest-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:29:"berlin-test-rest-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:28:"berlin-test-rest-405x270.jpg";s:5:"width";i:405;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}s:24:"photoblogster-full-width";a:4:{s:4:"file";s:29:"berlin-test-rest-1038x576.jpg";s:5:"width";i:1038;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:6:"Picasa";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Północne Indie 2017</title>
 		<link>http://localhost/flyordie/2017/07/19/polnocne-indie-2017/</link>
 		<pubDate>Wed, 19 Jul 2017 12:30:32 +0000</pubDate>
 		<dc:creator><![CDATA[SzczepanIF]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/flyordie/?p=96</guid>
 		<description></description>
-		<content:encoded><![CDATA[Wylot do Indii zaplanowałem w marzcu 2017... termin przypadał na przełom czerwca i lipca. I zdecydowanym krokiem, nie zastanawiając się długo, postanowiłem go zatwierdzić.
+		<content:encoded><![CDATA[<img class="alignnone size-full wp-image-114" src="http://localhost/flyordie/wp-content/uploads/2017/07/india-main.jpg" alt="" width="2048" height="1365" />
 
-Im bliżej było terminu wylotu, tym bardziej zacząłem sobie]]></content:encoded>
+Wylot do Indii zaplanowałem w marzcu 2017 roku. Termin przypadał na przełom czerwca i lipca. I zdecydowanym krokiem, nie zastanawiając się zbyt długo, postanowiłem go zatwierdzić.
+
+Im bliżej było terminu wylotu, tym bardziej zacząłem sobie zdawać sprawę, jaki błąd popełniłem.
+Owy okres jest początkiem pory deszczowej i monsunów nadciągających, i siejących postrach (tak przynajmniej wówczas myślałem) od południa.
+
+Lot, a w zasadzie loty, obejmowały przesiadkę w Stambule . W obu przypadkach moim operatorem było Turkish Airlines.
+
+Już będąc w Turcji na lotnisku czekała na mnie pierwsza przygoda. Po przemieszczeniu się w okolice bramki z tabliczką "New Delhi" przytłoczyła mnie ilość osób, praktycznie samych Hindusów. Ich zaskoczenie było ogromne do tego stopnia, że gdy rozpoczął się boarding, a ja stanąłem w kolejce, drobny Pan stojący tuż przede mną zapytał czy przypadkiem nie pomyliłem lotów, a tutaj się leci do New Delhi.  Wówczas, to już naprawdę nie wiedziałem czego się spodziewać po wylądowaniu samolotu.
+
+Dodam, na uboczu, że cenię sobie bardzo Turkish Airlines, obydwa loty były bardzo komfortowe, a ich entartainment system jest bardzo bogaty i jest w czym wybierać.
+
+Przed wylotem warto się zaopatrzyć w dolary, by wymienić je na tutejsze Rupie. Ok. 20 rupii to 1 zł PLN.
+Kantory można znaleźć na lotnisku.
+
+<img class="alignnone size-full wp-image-117" src="http://localhost/flyordie/wp-content/uploads/2017/07/india-road.jpg" alt="" width="2048" height="1365" />
+
+Delhi przywitało Mnie upalnym i wilgotnym powietrzem. Ale nawet nie to zwróciło największą moją uwagę po wyjściu z lotniska. Widoczny dookoła krajobraz, przyćmiły dzwięki dochodzące moich uszu. Zewsząd moje bębenki atakowane były klaksonami skuterów, aut, tuk-tuków, autobusów itp.
+
+I w drodze do hotelu, tak zerkając na mijane auta, do tej pory nie mogę uwierzyć, że system zmotoryzowanego przemieszczania się panujący w Indiach naprawdę działa. Nieważne kto, gdzie, jak, byle do przodu.
+
+W planach wylotu do Indii było kilka miejsc. Oprócz Agry i obowiązkowego Taj Mahal oraz spacerów po Delhi, chciałem jeszcze odwiedzić Jaipur oraz Mandawę, przepiękne półwymarłe miasto z hawelami, o którym napisałem osobny post.
+
+<img class="alignnone size-full wp-image-118" src="http://localhost/flyordie/wp-content/uploads/2017/07/india-market.jpg" alt="" width="2048" height="1365" />
+
+Indie to kraj skrajności, z wielkimi naleciałościami z czasów kolonii brytyjskich, ale nadal praktykujących swoje własne kulturowe wierzenia.
+
+Systemy kast w wielu miejscach nadal działają. Ludzie nie mogą zawierać związków małżeńskich pomiędzy kastami etc. To powoduje podział społeczeństwa i powstanie narastających różnic między nimi. I to da się odczuć na każdym kroku. I to widać nawet po budowlach, dzielnicach itp.
+
+W Delhi, tak jak z resztą i w innych miastach Indii i w sumie całym regionnie geograficznym azji, najlepszym transportem i dającym przy tym największą frajdę, są tuk-tuki:
+
+<img class="alignnone size-full wp-image-113" src="http://localhost/flyordie/wp-content/uploads/2017/07/india-tuktuks.jpg" alt="" width="2048" height="1365" />
+
+Ich rozbudowana sieć "gangów" powoduje, że potrafią bić się o klienta. Więc jeśli ktoś, akurat będzie wychodził z dworca kolejowego, powinien się liczyć z napadem "tuk-tukerów", którzy zaczną "licytować się" nawzajem, jeśli chodzi o potencjalną cenę przejazdu.
+
+Lecąc w te rejony, trzeba się przygotować mentalnie na poczucie bycia odmiennym i potrzebę zaakaceptowanie tego, że kulturowo ten "świat" jest czasem całkowicie odmienny w stylu niż europejski.
+
+I tak od razu rzucają się w oczy pięknie przebrane Hinduski, czy też mężczyźni w eleganckich koszulach itp. I naprawdę groteskowo wręcz to wygląda w odniesieniu do otoczenia w którym się poruszają. Wszędobylski brud, intensywny "zapach" wyrzucanych na ulicę śmieci, wrażenie, że wszystko dookoła zaraz może się zapaść. Ale gdy komuś to nie przeszkadza, można się przyzwyczaić.
+
+<img class="alignnone size-full wp-image-120" src="http://localhost/flyordie/wp-content/uploads/2017/07/indie-market2.jpg" alt="" width="2048" height="1365" />
+
+Takich smaczków jest więcej. W lokalnych restauracjach ludzie jedzą rękoma, ale w większości z nich, gdy tylko zobaczą Europejczyka, znajdzie się para sztućców. Polecam za to kupno charakterystycznych bezmięsnych pierogów Samosa. Piekielnie ostre, w hinduskim stylu, ale przepyszne i sycące jednocześnie.
+
+Odwiedzając bardziej znane miejsca, jak chociażby nr 1 na liście, czyli Taj Mahal, trzeba być przygotowanym na to, że zazwyczaj przy tego rodzaju atrakcjach są podane dwie ceny wstępu. Osobna, przeraźliwie niska, dla lokalnej społeczności, i druga niejednoktornie 500% wyższa dla obcokrajowców.
+
+<img class="alignnone size-full wp-image-122" src="http://localhost/flyordie/wp-content/uploads/2017/07/india-tajmahal.jpg" alt="" width="2048" height="1365" />
+
+Skoro o wzniesionym w Agrze Taj Mahal mowa, to jest to jedno chyba z bardziej zadbanych miejsc w północno-centralnej części Indii. Piękny ogród, prowadzący do wrót wejściowych, robi wrażenie. Gorzej już wygląda sprawa samego budynku. O ile z zewnątrz prezentuje się świetnie, i jest jedyną w okolicy nie rozebraną przez Anglików budowlą z marmurowymi zdobieniami, tak wewnątrz niewiele jest do zwiedzenia. Wstęp do większości pomieszczeń jest zakazany, i człowiek może czuć się lekko zawiedziony.
+
+Warte uwagi z pewnością są takie miejsca jak np. Fort Amber w Jaipurze, do którego można się dostać na słoniu (swoją drogą trochę Mnie ich szkoda, bo dziennie kilka godzin przewożą ludzi, i mam swego rodzaju wątpliwości, czy są one dobrze traktowane). Widoki z ciągnących się długimi kilometrami murów są zdumiewające. (Dlatego też nierzadko pojawiają się porównania, całkiem słuszne, ale o innej skali, do muru chińskiego w Indiach).
+
+<img class="alignnone size-full wp-image-124" src="http://localhost/flyordie/wp-content/uploads/2017/07/india-jaipur1.jpg" alt="" width="2048" height="1365" />
+
+Wenątrz mnóstwo dziedzińców, zadbanych ogrodów i gdyby nie fakt, że przed wejściem fodo Fortu oraz po jego wyjściu wszędzie jest pełno wszędobylskich naganiaczy i sprzedawców szturmujących przybyszy niczym Stromtrooperzy, którzy zobaczyli lądujący statek rebeliantów.
+
+<img class="alignnone size-full wp-image-125" src="http://localhost/flyordie/wp-content/uploads/2017/07/india-jaipur2.jpg" alt="" width="2048" height="1365" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2017-07-19 14:30:32]]></wp:post_date>
@@ -2168,6 +2606,18 @@ Im bliżej było terminu wylotu, tym bardziej zacząłem sobie]]></content:encod
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018-03-19]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[100]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+			<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2207,6 +2657,10 @@ Im bliżej było terminu wylotu, tym bardziej zacząłem sobie]]></content:encod
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[101]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
