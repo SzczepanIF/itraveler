@@ -495,7 +495,7 @@ function photoblogster_usercsschanges(){
 	.copy-right-section{border-top: 1px solid <?php echo esc_attr(get_theme_mod( 'footer_copyright_border_color')); ?>; }
 	.single .entry-content a, .page .entry-content a, .single .post-comments a, .page .post-comments a, .single .next-article a, .single .prev-article a, .page .next-article a, .page .prev-article a {color: <?php echo esc_attr(get_theme_mod( 'post_link_color')); ?>; }
 	.single .post-content, .page .post-content, .single .comments-area, .page .comments-area, .single .post-comments, .page .single-post-content, .single .post-comments .comments-area, .page .post-comments .comments-area, .single .next-article a, .single .prev-article a, .page .next-article a, .page .prev-article a, .page .post-comments {background: <?php echo esc_attr(get_theme_mod( 'post_background_color')); ?>; }
-	.article-grid-container article{background: <?php echo esc_attr(get_theme_mod( 'post_feed_post_background')); ?>; }
+	.article-grid-container article{background: none }
 	.article-grid-container .post-feed-wrapper p{color: <?php echo esc_attr(get_theme_mod( 'post_feed_post_text')); ?>; }
 	.post-thumbnail-wrap.no-img .entry-title a, .post-thumbnail-wrap.no-img .entry-title a:hover, .post-thumbnail-wrap.no-img .entry-title a:active, .post-thumbnail-wrap.no-img .entry-title a:focus, .post-thumbnail-wrap.no-img .entry-title a:visited{color: <?php echo esc_attr(get_theme_mod( 'post_feed_post_headline')); ?>; }
 	.post-thumbnail-wrap .entry-date{color: <?php echo esc_attr(get_theme_mod( 'post_feed_post_date_noimage')); ?>; }

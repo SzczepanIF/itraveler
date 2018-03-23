@@ -609,7 +609,7 @@ span.img-overlay {
 	transition: transform .2s ease-in;
 	overflow: hidden;
 	-webkit-backface-visibility: hidden;
-    -webkit-transform: translateZ(-1px) scale(1.0, 1.0);
+  transform: translateZ(-1px) scale(1);
 	background: #000;
 }
 
